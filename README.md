@@ -1,7 +1,7 @@
 David Peherstorfer aka Cryt1c
 ---
 
-MedTech, Computer Graphics (Medical Visualizations), AI (Medical Segmentations), Rust enthusiast. ❤️
+MedTech, Computer Graphics (Medical Visualizations), AI (Medical Segmentations), Rust enthusiast ❤️
 
 Talks:
 * My Journey from WebDev to Medical Visualization Rustacean | EuroRust 2024: [YouTube](https://www.youtube.com/watch?v=ZzQaVH-9Dzs)
