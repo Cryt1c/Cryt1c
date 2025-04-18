@@ -8,7 +8,7 @@ Talks:
 
 Repos:
 * [DICOMViewer for viewing medical images (Rust, WASM, Typescript, Angular)](https://github.com/Cryt1c/DICOMViewer)
-* [MedRayCaster for 3d visualization (Rust)](https://github.com/Cryt1c/MedRayCaster)
+* [MedRayCaster for 3d visualizations of medical images (Rust)](https://github.com/Cryt1c/MedRayCaster)
 
 Contact:
 * [LinkedIn](https://www.linkedin.com/in/david-peherstorfer/)
